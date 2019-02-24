@@ -13,7 +13,7 @@ Step by step procedure is as follows:
 
 4)download and install the git lfs software.
 
-5)now open the "executable simulator" folder from the downloaded repository and open "exec" unity file,set the resolution,press play.
+5)now open the "executable simulator" folder from the https://drive.google.com/open?id=1pYwmc2b3kZh3Ih0ILeuPTcFr09LuXDeq ,extract it and open "exec" unity file,set the resolution,press play.
 
 6)now open "how_to_simulate_a_self_driving_car" folder and open cmd in that file.
 
